@@ -1,0 +1,5 @@
+2018-03-16
+
+- doing react tutorial https://reactjs.org/tutorial/tutorial.html (also saved in
+  file 'Tutorial Intro To React.pdf')
+- create initial react app using node package create-react-app
