@@ -13,3 +13,15 @@
   lives in the parent component. The parent can then pass the state back down to
   the children via props, so that the child components are always in sync with
   each other and with the parent.
+- progress: next is Storing History
+
+2018-03-20
+
+- working on Storing History
+
+2018-03-21
+
+- completed Storing History
+- progress: next is Showing the Moves
+
+
